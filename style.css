@@ -1,0 +1,63 @@
+/*Standardized*/
+header
+{
+    background-color: #333;
+    padding: 20px;
+    margin: 0;
+}
+
+div
+{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    width: 100%;
+    background-color: #333;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+footer 
+{
+    background-color: #ddd;
+    padding: 20px;
+    margin: 20px;
+}
+
+/*Homepage and Login*/
+
+/*Products and Contacts*/
+.main_products
+{
+    background-color: #333;
+}
+
+.main_contacts
+{
+    background-color: #333;
+}
+
+
+
+.product
+{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+}
+
+.addtocart
+{
+    color: white;
+    background-color: #4CAF50;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.price
+{
+
+}
